@@ -5,11 +5,14 @@ ANKIT KUMAR  ankitkumar16143426gmail.com
 Initialize an empty git repository.
 Ans  : git init
 
+
 Create a file named first.txt.
 Ans : touch first.txt
 
+
 Add first.txt to the staging area.
 Ans  :    git add first.txt
+
 
 Commit with the message "adding first.txt".
 Ans  :    cd my-repo
