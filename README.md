@@ -4,11 +4,12 @@ ANKIT KUMAR  email id -->  ankitkumar16143426gmail.com
 
 1.    Initialize an empty git repository.
     
-Ans : git init
+  Ans : git init
 
 
 2.    Create a file named first.txt.
-Ans : touch first.txt
+    
+  Ans : touch first.txt
 
 
 3.    Add first.txt to the staging area.
